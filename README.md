@@ -20,28 +20,35 @@ This application includes three important functions within Solidity:
 
 
 1 - deposit 
-!(https://github.com/Alexisg324/Smart_Contracts_JointSavings/blob/main/Execution_Results/Screen%20Shot%202022-06-08%20at%201.40.58%20AM.png)
+
+![](https://github.com/Alexisg324/Smart_Contracts_JointSavings/blob/main/Execution_Results/Screen%20Shot%202022-06-08%20at%201.40.58%20AM.png)
 
 2 - 2 accounts
-!(https://github.com/Alexisg324/Smart_Contracts_JointSavings/blob/main/Execution_Results/Screen%20Shot%202022-06-08%20at%201.41.11%20AM.png)
+
+![](https://github.com/Alexisg324/Smart_Contracts_JointSavings/blob/main/Execution_Results/Screen%20Shot%202022-06-08%20at%201.41.11%20AM.png)
 
 3 - Withdraw function 
-!(https://github.com/Alexisg324/Smart_Contracts_JointSavings/blob/main/Execution_Results/Screen%20Shot%202022-06-08%20at%201.41.26%20AM.png)
+
+![](https://github.com/Alexisg324/Smart_Contracts_JointSavings/blob/main/Execution_Results/Screen%20Shot%202022-06-08%20at%201.41.26%20AM.png)
 
 The user will be able to deposit, withdraw, and view the amount in the account. An illustration is this is the following:
 
-!(https://github.com/Alexisg324/Smart_Contracts_JointSavings/blob/main/Execution_Results/Screen%20Shot%202022-06-08%20at%201.08.20%20AM.png)
+
+![](https://github.com/Alexisg324/Smart_Contracts_JointSavings/blob/main/Execution_Results/Screen%20Shot%202022-06-08%20at%201.08.20%20AM.png)
 
 The following screenshots show successful transactions on Solidify: 
 
 1 Wei: 
-!(https://github.com/Alexisg324/Smart_Contracts_JointSavings/blob/main/Execution_Results/Screen%20Shot%202022-06-08%20at%201.23.09%20AM.png)
+
+![](https://github.com/Alexisg324/Smart_Contracts_JointSavings/blob/main/Execution_Results/Screen%20Shot%202022-06-08%20at%201.23.09%20AM.png)
 
 10 Wei: 
-!(https://github.com/Alexisg324/Smart_Contracts_JointSavings/blob/main/Execution_Results/Screen%20Shot%202022-06-08%20at%201.23.09%20AM.png)
+
+![](https://github.com/Alexisg324/Smart_Contracts_JointSavings/blob/main/Execution_Results/Screen%20Shot%202022-06-08%20at%201.23.09%20AM.png)
 
 5 Wei: 
-!(https://github.com/Alexisg324/Smart_Contracts_JointSavings/blob/main/Execution_Results/Screen%20Shot%202022-06-08%20at%201.23.20%20AM.png)
+
+![](https://github.com/Alexisg324/Smart_Contracts_JointSavings/blob/main/Execution_Results/Screen%20Shot%202022-06-08%20at%201.23.20%20AM.png)
 
 ## Contributers 
 Alexis Rose Garcia 
